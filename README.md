@@ -1,5 +1,4 @@
 
-Certainly! Here's an extended description of the RFID-based attendance system using a Raspberry Pi:
 
 🚀 RFID-Based Attendance System with Raspberry Pi 🖥️🔧
 
